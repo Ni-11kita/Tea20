@@ -1,0 +1,4 @@
+teapowder=80
+milk=60
+sugre=50
+watecost=freeofcost
